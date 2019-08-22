@@ -1,0 +1,23 @@
+{
+  "name": "Curso-JS",
+  "version": "1.0.0",
+  "description": "Algumas aplicações vistas no curso de JS na Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoSundays/Curso-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoSundays/Curso-JS/issues"
+  },
+  "homepage": "https://github.com/GustavoSundays/Curso-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
